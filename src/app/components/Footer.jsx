@@ -6,7 +6,7 @@ const Footer = () => {
     const playClick = useClickSound();
     return (
         <div className="flex justify-center gap-6 mb-8 text-3xl pt-3 pb-10">
-            <a href="https://github.com/1004yeeun" target="_blank" className="text-black hover:text-[#93908c] transition">
+            <a href="https://github.com/oceeoun" target="_blank" className="text-black hover:text-[#93908c] transition">
                 <FaGithub onClick={ () => {playClick();} }/>
             </a>
             <a href="https://www.linkedin.com/in/joycejeoung" target="_blank" className="text-black hover:text-[#93908c] transition">

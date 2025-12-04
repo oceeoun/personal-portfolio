@@ -62,7 +62,7 @@ const HeroSection = () => {
             </div>
             <div className="flex justify-center text-center space-x-6 mt-8">
                 <a
-                    href="https://github.com/1004yeeun"
+                    href="https://github.com/oceeoun"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-2xl text-black hover:text-[#716767] transition"

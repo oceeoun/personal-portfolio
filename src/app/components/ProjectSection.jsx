@@ -18,7 +18,7 @@ const ProjectSection = () => {
                 image="/images/marble-madness-image.png"
                 tech={["C++"]}
                 skill={["Object-Oriented Programming", "Inheritance", "Polymorphism", "Memory Management", "Debugging", "Optimization"]}
-                github="https://github.com/1004yeeun/marble-madness"
+                github="https://github.com/oceeoun/marble-madness"
             />
 
             <Project
@@ -27,7 +27,7 @@ const ProjectSection = () => {
                 image="/images/slice-image.png"
                 tech={["Firebase", "PyTorch", "TypeScript", "FFmpeg.js", "React", "Node.js"]}
                 skill={["Browser-based Video Processing", "Frontend Performance Optimization", "In-browser File Handling"]}
-                github="https://github.com/1004yeeun/slice"
+                github="https://github.com/oceeoun/slice"
             />
 
             <Project
@@ -45,7 +45,7 @@ const ProjectSection = () => {
                 image="/images/personal-portfolio-image.png"
                 tech={["React", "Next.js", "Tailwind CSS"]}
                 skill={["UI/UX", "Personal Branding", "Frontend Dev", "Reusable Component Design", "Organization"]}
-                github="https://github.com/1004yeeun/personal-portfolio"
+                github="https://github.com/oceeoun/personal-portfolio"
                 link="https://joycejeoung.com"
             />
         </div>
