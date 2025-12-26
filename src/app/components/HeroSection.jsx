@@ -35,12 +35,12 @@ const HeroSection = () => {
                 <h1 className="pt-5 grid grid-cols-1 place-self-center pb-2 text-4xl sm:text-5xl lg:text-6xl font-extrabold bg-clip-text bg-gradient-to-br text-black">
                     Hi, I'm Joyce Jeoung
                 </h1>
-                <h2 className="pt-1 grid grid-cols-1 place-self-center pb-2 text-1xl bg-clip-text bg-gradient-to-br text-black">CS + Linguistics + Cognitive Science @ UCLA | Aspiring Software Engineer</h2>
+                <h2 className="pt-1 grid grid-cols-1 place-self-center pb-2 text-1xl bg-clip-text bg-gradient-to-br text-black">CS + Linguistics + Cognitive Science @ UCLA | Software Engineer</h2>
                 <br></br>
                 <span className="text-black font-medium text-base sm:text-m lg:text-xl">
                     <TypeAnimation
                         sequence={[
-                            "I'm a UCLA senior majoring in Computer Science, Linguistics, and Cognitive Science. My focus is on software engineering, and I've built projects in full-stack development, natural language processing, and game design with a focus on building tools that connect people through technology. Alongside coding, I've occasionally worked as an interpreter at international music events - experiences I value for the communication and collaboration skills they gave me.",
+                            "I'm a full-stack software engineer who enjoys building end-to-end tools that make people's lives a little bit easier. I've worked on projects across full-stack development, applied machine learning, and game design, with a focus on building reliable, user-facing systems. Alongside engineering, I've worked as an interpreter at international music events, which shaped how I communicate and collaborate across teams.",
                             1000,
                         ]}
                         wrapper="span"
