@@ -39,8 +39,11 @@ const AboutSection = () => {
                         I've worked on projects ranging from full-stack development to small applied machine learning projects and data-driven tools,
                         with a focus on reliability and user-facing impact.
                         Currently, I'm working with LA Blueprint to build a mobile app using Next.js and Supabase around real stakeholder workflows.
-                        Outside of engineering, I’ve  worked as an interpreter at international music events, 
-                        experiences that strengthened how I communicate under pressure and collaborate across teams.
+                    </p>
+                    <br/>
+                    <p>
+                        Outside of engineering, I’ve  worked as an interpreter at international music events.
+                        Those experiences taught me how to commmunicate clearly under pressure, coordinate across teams, and adapt quickly
                     </p>
                     <br/>
                     <p>
