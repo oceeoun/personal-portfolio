@@ -35,7 +35,7 @@ const HeroSection = () => {
                 <h1 className="pt-5 grid grid-cols-1 place-self-center pb-2 text-4xl sm:text-5xl lg:text-6xl font-extrabold bg-clip-text bg-gradient-to-br text-black">
                     Hi, I'm Joyce Jeoung
                 </h1>
-                <h2 className="pt-1 grid grid-cols-1 place-self-center pb-2 text-1xl bg-clip-text bg-gradient-to-br text-black">CS + Linguistics + Cognitive Science @ UCLA | Software Engineer</h2>
+                <h2 className="pt-1 grid grid-cols-1 place-self-center pb-2 text-1xl bg-clip-text bg-gradient-to-br text-black">CS, Linguistics, Cognitive Science @ UCLA | Software Engineer</h2>
                 <br></br>
                 <span className="text-black font-medium text-base sm:text-m lg:text-xl">
                     <TypeAnimation

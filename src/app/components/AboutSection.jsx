@@ -14,64 +14,38 @@ const AboutSection = () => {
             <div className="items-center py-6 px-4 sm:py-4 md:py-0 xl:px-16">
                 <Image
                     src="/images/about-image.png"
-                    alt="Joyce Jeoung"
+                    alt="Image of Joyce Jeoung with her family and Frosty the Snowman"
                     decoding="async"
                     data-nimg="fill"
-                    className="mx-auto py-0 md:py-8"
+                    className="max-w-prose mx-auto pt-2 pb-6"
                     width={400}
                     height={400}
                 />
             </div>
             <h2 className="font-bold text-center text-black text-2xl pb-3 sm:pt-4 md:pt-0">a little bit about me...</h2>
             <div>
-                <div className="text-black py-2 px-5 xl:gap-16 sm:py-5 xl:px-16 md:py-0 items-center">
+                <div className="text-black max-w-prose mx-auto xl:gap-16 items-center">
                     <p>
-                        I began my academic journey in the life sciences, but over time I discovered a deep passion for software engineering.
-                        Drawn to the logic, creativity, and impact of programming, I transitioned into CS with a strong interest in backend development, systems programming, and building tools that solve real problems.
-                        I'm currently majoring in Computer Science, Linguistics, and Cognitive Science at UCLA, where I've been building skills in both technical problem-solving and cross-disciplinary thinking.
-                        I bring curiosity, adaptability, and persistence to every project I take on.
+                        I'm a software engineer who enjoys turning real-world problems into simple, reliable tools. 
                     </p>
-                    <br />
+                    <br/>
                     <p>
-                        I've worked on projects that range from full-stack development to natural language processing and game design. 
-                        Some highlights include:
+                        I'm currently studying Computer Science, Linguistics, and Cognitive Science at UCLA, 
+                        and I'm interested in both how software works and how people interact with it.
+                        I enjoy building software end-to-end and iterating based on real feedback rather than assumptions.
                     </p>
-                    <br />
-                    <ul className="list-disc list-inside space-y-2 ml-10 mr-10">
-                        <li className="flex items-start gap-2">
-                            <span className="text-xl">🥘</span>
-                            <p>
-                                <strong>Foodie Fam</strong> — a food-sharing web app built with the MERN stack, featuring real-time feed updates, searchable restaurant indexing, and fast performance through optimized MongoDB queries.
-                            </p>
-                        </li>
-                        <li className="flex items-start gap-2">
-                            <span className="text-xl">🎬</span>
-                            <p>
-                                <strong>Slice</strong> — a web-based video cropping tool using FFmpeg.js, with secure authentication, instant preview, and client-side exporting.
-                            </p>
-                        </li>
-                        <li className="flex items-start gap-2">
-                            <span className="text-xl">🎮</span>
-                            <p>
-                                <strong>Marble Madness</strong> — a 2D maze game in C++ with dynamic maze generation and collision detection using OOP principles.
-                            </p>
-                        </li>
-                    </ul>
-                    <br />
+                    <br/>
                     <p>
-                        Alongside engineering, I designed, built, and continue to maintain this personal portfolio website using <strong>Next.js, React (JavaScript/JSX, TypeScript), Tailwind CSS, and Vercel</strong>, as well as a custom WordPress website for a pre-medical organization. 
-                        In both, I applied responsive design, accessibility, and front-end best practices.
-                        Through these experiences, I've become comfortable working across the stack, collaborating in version-controlled environments, and building tools that solve real problems.
+                        I've worked on projects ranging from full-stack development to small applied machine learning projects and data-driven tools,
+                        with a focus on reliability and user-facing impact.
+                        Currently, I'm working with LA Blueprint to build a mobile app using Next.js and Supabase around real stakeholder workflows.
+                        Outside of engineering, I’ve  worked as an interpreter at international music events, 
+                        experiences that strengthened how I communicate under pressure and collaborate across teams.
                     </p>
-                    <br />
+                    <br/>
                     <p>
-                        I have a strong foundation in <strong>algorithms and data structures</strong>, and am currently expanding my knowledge of AI technologies.
-                        Beyond code, I bring strong communication skills developed through my experience as an interpreter at K-pop concerts and international business conventions.
-                        Working under pressure taught me how to stay clear, fast, and reliable — strengths I know carry into engineering teamwork and problem-solving.
-                    </p>
-                    <br />
-                    <p> 
-                        Looking ahead, I'm eager to contribute as a software engineering intern and grow into a developer who builds reliable, impactful solutions that make technology simpler and more accessible!
+                        I'm continuously learning and experimenting, 
+                        and I'm excited by environments where I can build, iterate, and grow while working on things that genuinely matter.
                     </p>
                 </div>
             </div>
